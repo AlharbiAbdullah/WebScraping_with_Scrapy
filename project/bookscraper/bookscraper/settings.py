@@ -110,7 +110,6 @@ FEEDS = {
 
 # User-agent 
 SCRAPEOPS_API_KEY = config_env['API_KEY'] #  at https://scrapeops.io
-#SCRAPEOPS_API_KEY =                 '2ba3405c-e908-46fb-9256-8028096c0d6c'
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = 'https://headers.scrapeops.io/v1/user-agents'
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 5
